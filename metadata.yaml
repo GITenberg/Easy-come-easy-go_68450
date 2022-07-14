@@ -1,0 +1,29 @@
+_repo: Easy-come-easy-go_68450
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sabin, Edwin L. (Edwin Legrand)
+    alias: Sabin, Edwin Legrand
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '9476'
+    url: http://www.gutenberg.org/2009/agents/9476
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_L._Sabin
+description: ''
+gutenberg_issued: '2022-07-03'
+identifiers:
+  gutenberg: '68450'
+language: en
+pgterms:marc905: 20220701134537sabin
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :Consolidated Magazines Corporation (The Blue Book
+  Magazine),1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Easy come, easy go
+url: http://www.gutenberg.org/ebooks/68450
